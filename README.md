@@ -1,5 +1,5 @@
 # lucas-sequence
-This is a Lucas Sequence calculator. 
+This is a Lucas Sequence calculator, using recursion.
 
 **************
 
